@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Cristian</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hello, I’m Cristian</h1>
+  <p>This is my personal website hosted on GitHub Pages.</p>
+
+  <p>
+    <a href="https://github.com/cristiandumitrubisca.github.io">My GitHub</a>
+  </p>
+</body>
+</html>
