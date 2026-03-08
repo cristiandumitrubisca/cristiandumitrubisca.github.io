@@ -4,7 +4,12 @@ body {
   margin: 50px auto;
   line-height: 1.6;
 }
-
+.profile-photo {
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
 h1 {
   color: #333;
 }
+
